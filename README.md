@@ -171,15 +171,19 @@ endmodule
 ```
 ## RTL LOGIC FOR FLIPFLOPS 
 ### SR Flip Flop:
-![OUTPUT](/DE_5.1.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/85b27b8b-3318-4ab5-8fe2-6b16f0460aae)
+
 ### D Flip Flop:
-![OUTPUT](/DE_5.2.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/f7d81c1a-d55e-4742-b3d0-525c515d12ed)
+
 
 ### JK Flip Flop:
-![OUTPUT](/DE_5.3.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/778c552d-9508-41cd-8d19-0894e0f54ed6)
+
 
 ### T Flip Flop:
-![OUTPUT](/DE_5.4.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/6cbc0002-da52-48b6-9072-6e3d595bbb8c)
+
 
 
 
@@ -189,16 +193,20 @@ endmodule
 
 
 ### SR Flip Flop:
-![OUTPUT](/DE_5.5.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/f9313eef-ae0a-42bb-b66a-0bafdbfc28ca)
+
 
 ### D Flip Flop:
-![OUTPUT](/DE_5.6.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/70048142-068d-492c-ac97-5a8c281e0d7d)
+
 
 ### JK Flip Flop:
-![OUTPUT](/DE_5.7.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/22f6fedb-c598-454d-8ae3-ed0a83aaf310)
+
 
 ### T Flip Flop:
-![OUTPUT](/DE_5.8.png)
+![image](https://github.com/Pravin878/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118799555/bded6c2e-cb2a-40ee-b577-0c2a83e80b90)
+
 
 
 
